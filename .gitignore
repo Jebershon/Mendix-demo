@@ -1,0 +1,28 @@
+/*.launch
+/deployment/
+/packages/
+/releases/
+/.mendix-cache/
+/.classpath
+/.project
+/livelogs.mpr.bak
+/livelogs.mpr.lock
+/modeler-merge-marker
+/project-settings.user.json
+/javasource/*/proxies/
+/javasource/system/
+/**/node_modules/
+!/javascriptsource/**/node_modules/
+/nativemobile/builds/
+/vendorlib/temp/
+.DS_Store
+/.svn/
+/mprcontents/mprjournal*
+theme-cache/web/theme.compiled.css
+theme-cache/web/theme.compiled.css.map
+modules/javasource/*/proxies/*
+modules/javasource/system/*
+
+# mxcli working directory: machine-local constant values (may contain
+# secrets), the run/test handshake, and runtime logs. Never commit these.
+.mxcli/
